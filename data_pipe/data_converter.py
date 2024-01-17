@@ -338,7 +338,7 @@ class data_pipe:
         # '''
         # function to connect to mongo and push data
         # '''
-        # password = 'e1ygv3sZmCg4pE81'
+        # password = ''
         # uri = f"mongodb+srv://bakharia1:{password}@unipie.wzlt9kr.mongodb.net/?retryWrites=true&w=majority"
         # client = MongoClient(uri)
         # db = client['UniPie']
