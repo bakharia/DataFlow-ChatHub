@@ -24,8 +24,6 @@ from sqlalchemy import create_engine
 ###################################
 ###################################
 
-# uri = postgresql://bakharia:2BGpfu5iyMze@ep-mute-king-05475697.us-east-1.aws.neon.tech/UniPie?sslmode=require
-
 class data_pipe:
     '''
     data class
